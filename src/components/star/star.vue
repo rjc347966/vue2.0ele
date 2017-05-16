@@ -76,7 +76,7 @@
 		display: inline-block;
 		width: 15px;
 		height: 15px;
-		margin-right: 16px;
+		margin-right: 8px;
 		background-size: 15px 15px
 	}
 	.star-36 .on {
